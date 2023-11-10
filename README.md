@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Herb Farming Kart
+Herb Farming Kart Readme
