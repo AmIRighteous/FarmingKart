@@ -5,12 +5,7 @@ import net.runelite.client.config.*;
 @ConfigGroup("HerbFarmingKart")
 public interface FarmingKartConfig extends Config
 {
-//	@ConfigSection(
-//		name = "Farm Patches",
-//		description = "Unlocked Farm patches",
-//		position = 0
-//	)
-//	String farmPatches = "farmPatches";
+	String CONFIG_GROUP_NAME = "farmingkart";
 	@Range(
 			min = 3,
 			max = 9
